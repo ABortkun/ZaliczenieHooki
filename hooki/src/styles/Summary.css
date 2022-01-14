@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+.results {
+    display: flex;
+    border: 3px solid rgb(109, 109, 109);
+    margin-top: 20px;
+    
+}
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    margin: 5px;
+  }
+  li {
+      padding: 5px;
+      border-bottom:1px solid gray;
+  }

@@ -1,0 +1,19 @@
+.accordion-group {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 50px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    font-size: 80px;
+}
+.ui.styled.accordion .title {
+    color: black;
+}
+.ui.styled.accordion {
+    border: 2px solid black;
+    box-shadow: black 2px 3px;
+}
